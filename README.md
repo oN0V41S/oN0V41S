@@ -1,14 +1,16 @@
+>cabeçalho
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-##About Animation
+>About Animation
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+RAFAEL+NOVAIS;I'm+16+years+old;I+am+from+São+Paulo,+SP;I+study+systems+development+at+Senai+-+Suiço-Brasileira;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
+>Github Panel
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oN0V41S&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Github Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oN0V41S&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+>Linkedin
 <div align="center">  
 <a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
@@ -36,8 +38,9 @@
 ### Studying in this moment:
 
 <div display="flex">
+<a>NextJS    
 <img width="20px" src="/Static/icons8-nextjs-48.png">
-<p>Nextjs</p>
+<a/>
 </div>
 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
