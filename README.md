@@ -36,10 +36,10 @@
   
 ### Studying in this moment:
 
-<section styles="display:flex;">
-  <img width="32px" src="/Static/icons8-nextjs-48.png">
+<div styles="display:flex;">
+  <img width="24px" src="/Static/icons8-nextjs-48.png">
   <p>Nextjs</p>
-</section>
+</div>
 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
