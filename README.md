@@ -36,8 +36,8 @@
 ### Studying in this moment:
 
 <div style="display: flex;">
-  <img width="20px" src="/Static/icons8-nextjs-48.png">
-  <p>Nextjs</p>
+<img width="20px" src="/Static/icons8-nextjs-48.png">
+<p>Nextjs</p>
 </div>
 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
