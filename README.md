@@ -36,8 +36,8 @@
   
 ### Studying in this moment:
 
-<div style="display:flex;">
-  <img width="16px" src="/Static/icons8-nextjs-48.png">
+<div styles="display:flex;">
+  <img width="32px" src="/Static/icons8-nextjs-48.png">
   <p>Nextjs</p>
 </div>
 
