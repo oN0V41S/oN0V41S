@@ -43,4 +43,5 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-<p>criado por Matheus Alvarez ![Github]("https://github.com/MatheusAlvarez/MatheusAlvarez/blob/main/README.md?plain=1")<p>
+<p>criado por Matheus Alvarez<p> 
+![Github Matheus Alvarez]("https://github.com/MatheusAlvarez/MatheusAlvarez/blob/main/README.md?plain=1");
