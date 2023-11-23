@@ -47,6 +47,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-<p>criado por Matheus Alvarez<p> 
+
+<p>Design by Matheus Alvarez<p> 
   
-[Github](https://github.com/MatheusAlvarez/MatheusAlvarez/blob/main/README.md?plain=1);
+![Github](https://github.com/MatheusAlvarez/MatheusAlvarez/blob/main/README.md?plain=1);
